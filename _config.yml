@@ -2,8 +2,7 @@
 # Site
 
 title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
+baseurl: "shbictai.github.io"
 google_analytics_key:
 show_full_navigation: true
 
@@ -11,8 +10,8 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
 author:
-  name:
-  email:
+  name: "shbictai"
+  email: "shb.ict.ai@gmail.com"
   twitter: # twitter username without the @ symbol
 social:
   name: Edition Template
