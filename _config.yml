@@ -13,11 +13,6 @@ author:
   name: "shbictai"
   email: "shb.ict.ai@gmail.com"
   twitter: # twitter username without the @ symbol
-social:
-  name: Edition Template
-  links:
-    - https://github.com/CloudCannon/edition-jekyll-template
-
 # -----
 # Build
 
