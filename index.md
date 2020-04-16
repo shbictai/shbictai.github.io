@@ -1,5 +1,5 @@
 ---
-title: SHB-ICT-AI 
+title: Home
 ---
 
 
